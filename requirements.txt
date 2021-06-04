@@ -1,0 +1,5 @@
+tensorflow
+numpy
+matplotlib
+glob2
+opencv-python
